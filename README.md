@@ -1,2 +1,4 @@
 # GolangPractice
-Personal playground to have fun with Golang. Yeah~
+
+Nothing special. 
+Just a repo to store golang codes for practice purpose.
